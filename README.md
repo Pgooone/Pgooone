@@ -1,7 +1,7 @@
 <!-- GitHub profile README · @Pgooone -->
 <div align="center">
 
-# Hi, I'm Pgooone 👋
+# Hi, I'm Pgooone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="waving hand" />
 
 **全栈开发者 · 既做 AI Agent 系统,也交付真实可用的产品**
 
