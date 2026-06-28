@@ -48,3 +48,11 @@ _Full-stack developer — I build multi-agent AI systems, and ship real products
 
 - 💻 GitHub · [@Pgooone](https://github.com/Pgooone)
 - ✉️ Email · [axioz0070@gmail.com](mailto:axioz0070@gmail.com)
+
+---
+
+<div align="center">
+
+[![GitHub Roast 卡片](https://githubroast.icu/api/card/pgooone)](https://githubroast.icu/u/Pgooone)
+
+</div>
